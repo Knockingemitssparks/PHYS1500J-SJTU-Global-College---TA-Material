@@ -8,4 +8,4 @@ If there are similar problems or projects in the future, GC students are respons
 
 
 update:2025/9/27
-Just in case you need some help for PHYS2500J, I also upload all my materials in this file.
+Just in case you need some help for PHYS2500J, I also upload all my materials in this repository.
